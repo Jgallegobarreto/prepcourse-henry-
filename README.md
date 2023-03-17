@@ -1,2 +1,2 @@
-# prepcourse-henry-
-este es un repositorio de prueba para el modulo 2 prepcourse henry 
+este proyecto es prueba de como crear un repositorio desde github
+ 
